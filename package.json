@@ -1,0 +1,12 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "通貨変換アプリ - 8通貨対応",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["currency", "converter", "exchange-rate"],
+  "author": "",
+  "license": "MIT"
+}
